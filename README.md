@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jacob0030
 - 👀 I’m interested in Audio programming, Embedded Systems and learning new things!
 - 🌱 I’m currently learning Computer Engineering at the University of Central Florida.
-- 💞️ I’m looking to collaborate on anyhting Audio related.
+- 💞️ I’m interested in collaborating on anything Audio related.
 - 📫 How to reach me:  jacobadamlingo@gmail.com
 
 <!---
